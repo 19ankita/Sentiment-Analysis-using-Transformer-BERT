@@ -1,4 +1,4 @@
-# Sentiment Analysis Using BERT
+# Sentiment Analysis Using Transformer BERT
 
 ## 📌 Introduction
 This repository focuses on **Sentiment Analysis** using a **pretrained BERT model**. The project utilizes **PyTorch** and **Hugging Face Transformers** to classify textual data into various emotional states based on remarks. The dataset is an **annotated CSV file** containing labeled sentiment data.
